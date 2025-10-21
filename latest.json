@@ -1,1 +1,15 @@
-{"version":"0.2.0","platforms":{}}
+{
+  "version": "v.1.0.0",
+  "notes": "Phiên bản đầu tiên của KidSafe, cung cấp các tính năng cơ bản để bảo vệ trẻ em khi sử dụng máy tính.",
+  "pub_date": "2025-10-21T12:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "CONTENT_OF_*.zip.sig_FILE_HERE",
+      "url": "https://github.com/yourname/kidsafe/releases/download/v0.2.0/KidSafe_0.2.0_x64-setup.nsis.zip"
+    },
+   "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTXJOTXZCWUlMNUIyMUNSOGsxQm1mUVRjdFBlZEN4bnRYbVdSMXFsd29SbFVUUk44SnRJNm9UZ1JOWnk3RFVhU3owaHpkbmRMRWRIZHpabTNEMEdtWFJuOHU0dEJBNFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMDU1ODM3CWZpbGU6S2lkU2FmZS5hcHAudGFyLmd6CnI2dk1tOE5udUVmdEl2bzZNVHVTVE1qeW5tSnpweXhabG5xN0UydUJLdVVZU2xIcFkyOU9BZWl6SVZQaTlaZkoxTW5Fc09JaUF3c295aUJtZkttbEJBPT0K%",
+      "url": "https://github.com/haichay88/kidsafe/releases/download/v.1.0.0/KidSafe_0.1.0_aarch64.dmg"
+    }
+  }
+}
