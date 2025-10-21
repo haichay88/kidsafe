@@ -4,8 +4,8 @@
   "pub_date": "2025-10-21T12:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "CONTENT_OF_*.zip.sig_FILE_HERE",
-      "url": "https://github.com/yourname/kidsafe/releases/download/v0.2.0/KidSafe_0.2.0_x64-setup.nsis.zip"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTXJOTXZCWUlMNUdHUEgvemZRR0pCSDdNQ2Q2aFJZWExmdTdPUVEwV3hTMjhiUDVsODcxSVhzajZWeXE5UFRodFFPTFR4QUhFZ3AwYUZ4OXZsVE5sRUVNYkxTMENMYWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMDU4MDYxCWZpbGU6S2lkU2FmZV8wLjEuMF94NjQtc2V0dXAuZXhlCkJxcXJUdUd6STBEdGVkcUdHUGUwcVRYZnF6UVdMQnU0M0V5UWIvRlpMQTFlMWJJM0ExQUQ3Y0p5dFJYNEdIUVBZM2g0Z1F5T2MyM1FjSFRGcUpHS0JnPT0K",
+      "url": "https://github.com/haichay88/kidsafe/releases/download/v.1.0.0/KidSafe_0.1.0_x64-setup.exe"
     },
    "darwin-aarch64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTXJOTXZCWUlMNUIyMUNSOGsxQm1mUVRjdFBlZEN4bnRYbVdSMXFsd29SbFVUUk44SnRJNm9UZ1JOWnk3RFVhU3owaHpkbmRMRWRIZHpabTNEMEdtWFJuOHU0dEJBNFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMDU1ODM3CWZpbGU6S2lkU2FmZS5hcHAudGFyLmd6CnI2dk1tOE5udUVmdEl2bzZNVHVTVE1qeW5tSnpweXhabG5xN0UydUJLdVVZU2xIcFkyOU9BZWl6SVZQaTlaZkoxTW5Fc09JaUF3c295aUJtZkttbEJBPT0K%",
