@@ -1,15 +1,11 @@
 {
-  "version": "v.1.0.0",
-  "notes": "Phiên bản đầu tiên của KidSafe, cung cấp các tính năng cơ bản để bảo vệ trẻ em khi sử dụng máy tính.",
-  "pub_date": "2025-10-21T12:00:00Z",
+  "version": "v1.0.0.1",
+  "notes": "Phien ban v1.0.0.1 - Cap nhat tu dong. Xem chi tiet tai GitHub Releases.",
+  "pub_date": "2025-10-27T13:43:11Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTXJOTXZCWUlMNUdHUEgvemZRR0pCSDdNQ2Q2aFJZWExmdTdPUVEwV3hTMjhiUDVsODcxSVhzajZWeXE5UFRodFFPTFR4QUhFZ3AwYUZ4OXZsVE5sRUVNYkxTMENMYWdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMDU4MDYxCWZpbGU6S2lkU2FmZV8wLjEuMF94NjQtc2V0dXAuZXhlCkJxcXJUdUd6STBEdGVkcUdHUGUwcVRYZnF6UVdMQnU0M0V5UWIvRlpMQTFlMWJJM0ExQUQ3Y0p5dFJYNEdIUVBZM2g0Z1F5T2MyM1FjSFRGcUpHS0JnPT0K",
-      "url": "https://github.com/haichay88/kidsafe/releases/download/v.1.0.0/KidSafe_0.1.0_x64-setup.exe"
-    },
-   "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTXJOTXZCWUlMNUIyMUNSOGsxQm1mUVRjdFBlZEN4bnRYbVdSMXFsd29SbFVUUk44SnRJNm9UZ1JOWnk3RFVhU3owaHpkbmRMRWRIZHpabTNEMEdtWFJuOHU0dEJBNFFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzYxMDU1ODM3CWZpbGU6S2lkU2FmZS5hcHAudGFyLmd6CnI2dk1tOE5udUVmdEl2bzZNVHVTVE1qeW5tSnpweXhabG5xN0UydUJLdVVZU2xIcFkyOU9BZWl6SVZQaTlaZkoxTW5Fc09JaUF3c295aUJtZkttbEJBPT0K%",
-      "url": "https://github.com/haichay88/kidsafe/releases/download/v.1.0.0/KidSafe_0.1.0_aarch64.dmg"
+      "signature": "PZMRFf/esHiU93DGqd7zQjSfiVCCEzUvmU661kQK+wDs5hv1T6MRJMinNHnlrnKlPzIIM0WGz+w6uPiEVL6q0Odb6TjOwS7ZIXsWLHGp1Hl6oQScVTlTYvTp9Mhoc4PHdiCM5eSJfJsErAhleBeRpH7sCHzH/D5/f13G3j85b3WGswChwTC8XiTSyIChkENpOGIbwlXHiN8C5tNEmdETODAwNuHO/KpAxw+FrfUkMNhmwCJ6QaRGvaY5KoHJKuW37+uapb/3+ubVkDYgcberzvlWlvt4gWqZJzGHHmIyBEqljXkHMK+4dkfcP/AVbHCZgywyJm/GqMCNdz2+AtNe8SNlZ494oiTaQzGDF1MiGUtp9AaHUjXQ8zBcWG/07ly/zdYd7N8eGQFoAWpj6dg/VXLPkLXqTWgZK+0mp5LT71gmcQAdiOo+RB2Q30cuG0WoKvT5f5RoV7l5q4ZC9rsS3N7857EJMLn9UC2gasviZR/mZsjBe83PUVZAOPzTqL/4Mw0qZtAWveniqdg4jlC0jdqzqvXdAZ0vo7CFnxKIZmlW5eG6v/pFxCU1o74mYczhTzUB+e9R9EvufhrvH3yZNWcStvPELqiWkbh5+GcTOgN/g13OW56ThNSuwSexUxym85yDZCcJKpZQ0r8rBNnPoekEpINHEfTIkzr5AZ4XGd8=",
+      "url": "https://github.com/haichay88/kidsafe/releases/download/v1.0.0.1/KidSafeChildAgent-Setup-1.0.0.exe"
     }
   }
 }
