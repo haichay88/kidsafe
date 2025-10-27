@@ -1,11 +1,11 @@
 {
-  "version": "1.0.0.1",
-  "notes": "Phien ban v1.0.0.1 - Cap nhat tu dong. Xem chi tiet tai GitHub Releases.",
-  "pub_date": "2025-10-27T13:43:11Z",
+  "version": "1.0.0.2",
+  "notes": "Phien ban 1.0.0.2 - Cap nhat tu dong. Xem chi tiet tai GitHub Releases.",
+  "pub_date": "2025-10-27T15:05:36Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "PZMRFf/esHiU93DGqd7zQjSfiVCCEzUvmU661kQK+wDs5hv1T6MRJMinNHnlrnKlPzIIM0WGz+w6uPiEVL6q0Odb6TjOwS7ZIXsWLHGp1Hl6oQScVTlTYvTp9Mhoc4PHdiCM5eSJfJsErAhleBeRpH7sCHzH/D5/f13G3j85b3WGswChwTC8XiTSyIChkENpOGIbwlXHiN8C5tNEmdETODAwNuHO/KpAxw+FrfUkMNhmwCJ6QaRGvaY5KoHJKuW37+uapb/3+ubVkDYgcberzvlWlvt4gWqZJzGHHmIyBEqljXkHMK+4dkfcP/AVbHCZgywyJm/GqMCNdz2+AtNe8SNlZ494oiTaQzGDF1MiGUtp9AaHUjXQ8zBcWG/07ly/zdYd7N8eGQFoAWpj6dg/VXLPkLXqTWgZK+0mp5LT71gmcQAdiOo+RB2Q30cuG0WoKvT5f5RoV7l5q4ZC9rsS3N7857EJMLn9UC2gasviZR/mZsjBe83PUVZAOPzTqL/4Mw0qZtAWveniqdg4jlC0jdqzqvXdAZ0vo7CFnxKIZmlW5eG6v/pFxCU1o74mYczhTzUB+e9R9EvufhrvH3yZNWcStvPELqiWkbh5+GcTOgN/g13OW56ThNSuwSexUxym85yDZCcJKpZQ0r8rBNnPoekEpINHEfTIkzr5AZ4XGd8=",
-      "url": "https://github.com/haichay88/kidsafe/releases/download/v1.0.0.1/KidSafeChildAgent-Setup-1.0.0.exe"
+      "signature": "C9pmVijzdagGITVcOeiqRzv7Vtoi3O6cyQ6qLTUvfybgz3y45lOhGafa5/sWZcpm2Zp8r6d26s5dMXfMuWsZbDguxNPWwloBwDt1l299eeD6pC6hXdhUmJOTRNsaerVhrVlMXCgroW/E6Id3HHMMkKxvVHExpPPtmgfjzfoAKL4jUOAbACbdEWSJm3ev2XNCxMRy+ncNDX5SK4k38g8ypftfFJweGRgyx3wRjAxgNaT1d70lTOeBThjMnO0gZnwsrvjLR0dfl0ni44Lh9nnOLckwj1/d2+ziYNBry5VTg5E5Df5J9AR/H7ZCGZ1C/rnRtLDYzLvq1O4zt5mDztL/CLiY7XU7CG99h7e07U3GjEP5qEj6tUp5GCvXdoE3tD4ZaAU3amdA0QwtVTYGH5bGZWMU3P0Aj4HZmcuUb+EGBqVBk5KC628v3/5CQ0URO4hK3ryMRqNzp+wL6O5UCvaYKjuZKhqfYupwaU0R3qY8ePIpWeFVQwGS67XVQPwqaX5oZGvW7/TizUO5IUHFT7os7g9GMYysGZSg/qs9RHe2c+giuuCZ5dKh+jEoTgBapqmYeuXWsytIj5zuXDddwYXQKwPeVPqELdQo16P6JLqhivjiAo96ISEFfWPXmRKInmLBFSPc7hfAPhbQyF2HlOymX0mAznjZzEZmsKH7wdtF/TU=",
+      "url": "https://github.com/haichay88/kidsafe/releases/download/v1.0.0.2/SafeKidChildAgent-Setup-1.0.0.2.exe"
     }
   }
 }
