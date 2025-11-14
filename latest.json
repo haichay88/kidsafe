@@ -1,10 +1,10 @@
 {
-  "version": "1.0.0.0",
+  "version": "1.0.0.4",
   "notes": "Phien ban 1.0.0.4 - Cap nhat tu dong. Xem chi tiet tai GitHub Releases.",
-  "pub_date": "2025-10-28T10:55:24Z",
+  "pub_date": "2025-11-14T08:06:30Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "ZSPTeX0rVuKh+FAdMsoF7W+rUWA4qmPTYQCxAHUx6Yok2viCIKUdsZE1U3fjLFrffXcC2kNLJ/gJ57BQgSdkafqcQge9M6vbprhJVkXbfdiT2rx/D4ge96amo16cnwS6zZ6yOYg4noEuTg+LSa36e2rSlQX3NFFMpnG0fSj0Xls2Sdn8Lck0Yfe9dnP/WGWSEw2oWeLrRJRq5Wf3pT2jb1BphuGxEiD8CaJyOMzJvEUvrBQRnDhSPOyZdS03eAcmlhSiSaDXPFnqssaEzzLm4avuAGwZQGNQAUMxxsd/30P2zhetTmpzrfRwzkuzrtyMHH/39KdEU5160fXeGAQiSqY2HIxaSn+Du5UGwmgY3pr99onvfFH8lcM8O4ZmjE1fjx4IPr2w/m2bBMU9HQYmIRNlXVh06tbPpxIrBHDrfA+hs4fIfcmBkiVgWBFV94nvQXmUpRucCg7Kv05KEr2IG8xA2f9PrPx1+jZuNxgDWWzWzyanABQ6Z3D58nSP5Qz9dKxjJLb9dAcyWRX0TFErp166GWH88+tLZ59KV+rhOtdzmVmaCtNQlVK0FFXqFc3iXgaCn5vLrWQ5dppG3ltEFq+O92bPnJKqSzyMVIcGA1wdth1eWRMWMAVxj9nVLk4TFwhDXQ+IEa/Y2Zne0xdIW33i6zMgsaDaRd5QwL8qrdk=",
+      "signature": "ToC1/48c+Jwo1pZWFREUqBStkmTVJKzdls/tdRVCBWEVjaWFh7cicEIMfGFgwPd7eYKlmjyEtuKxwyJxJnHV1x3S57C7QW4b0XEWYO3eDqwZm1r03mWatg5GAOb5LCbn/04VIJ0gGEc/Q7l/CMzHpeIsCuvHU9uURFCCcPjXtmJx+Nyshd4bWBJCXqOxYXfZ2071DFLfIzXvZgMQAuKkxWrkDM9AI2Ow32Aq/3xOupv76ifZXnthl6cTIBlQKYqhFJVk8ahOs2WbtMWgr14MQwVMbmsMNgtGKVivw0lzC4zZCGGUswWsfRM8gBut8AmjqwqibuZ2Kya34t4oYZLtyfORKGq5/I3amUbYdprvR/xuoAlYLm2nADyBTPl4i3SVnOY2JNMmK43H2QGxWtSnVslyJOWfLe5j77+jstsqyKBxxgWyd8GwxRBEe7N31CVs509hJAwQbTC2jJbb9TVmixdXkFvt1FNVG30ao529w3CJDx8NQzqYc35hp6RieY9uLxU8OrzcpG6YLbiAVy8h/kd9Dju/idMpTdHdLkeKvNqH/gYlewWPS+1C5cQvqhC30/Xov6PL7uXBPbS7SNARkWwe8znSq1CmhYZlLYl6kk8bgz6IwEDFTxTU6TpERLVXi378USB4cVKFl5rzDB1j+q44TuNwFtYiBsA2XXgKeMY=",
       "url": "https://github.com/haichay88/kidsafe/releases/download/v1.0.0.4/SafeKidChildAgent-Setup-1.0.0.4.exe"
     }
   }
